@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>EBTrade</Name>
+    <Version>1.0.0</Version>
+    <Title>Dummy EBTrade</Title>
+    <Publisher>EBSCN</Publisher>
+    <!-- Directory name is used in component.xml -->
+    <StartMenuDir>EBTrade</StartMenuDir>
+    <TargetDir>@ApplicationsDir@/@Publisher@/EBTrade</TargetDir>
+    <RemoteRepositories>
+        <Repository>
+            <Url>http://localhost/repository</Url>
+        </Repository>
+    </RemoteRepositories>
+</Installer>

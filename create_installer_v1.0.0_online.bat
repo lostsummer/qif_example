@@ -1,0 +1,1 @@
+binarycreator --online-only -c config/config.xml -p packages ebtrade_v.1.0.0_setup_online.exe

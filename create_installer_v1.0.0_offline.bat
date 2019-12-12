@@ -1,0 +1,1 @@
+binarycreator.exe --offline-only  -p packages -c config/config.xml ebtrade_v.1.0.0_setup_offline.exe
